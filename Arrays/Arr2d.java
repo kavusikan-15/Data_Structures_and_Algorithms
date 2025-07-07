@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class New {
+class Arr2d {
   public static void main (String[] args) {
     Scanner in = new Scanner(System.in);
     int[][] arr = new int[3][3];
